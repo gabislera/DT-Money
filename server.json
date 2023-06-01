@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2023-06-01T13:20:32.109Z"
+    },
+    {
+      "description": "Mimos",
+      "price": 200,
+      "category": "Mimos",
+      "type": "income",
+      "createdAt": "2023-06-01T20:52:28.199Z",
+      "id": 4
+    },
+    {
+      "description": "Sushi",
+      "price": 80,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-06-01T21:07:24.369Z",
+      "id": 5
     }
   ]
 }
