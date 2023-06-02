@@ -39,6 +39,22 @@
       "type": "outcome",
       "createdAt": "2023-06-01T21:07:24.369Z",
       "id": 5
+    },
+    {
+      "description": "Ração dos gatos",
+      "price": 80,
+      "category": "Gatos",
+      "type": "outcome",
+      "createdAt": "2023-06-02T12:45:57.366Z",
+      "id": 6
+    },
+    {
+      "description": "Salário",
+      "price": 2000,
+      "category": "Salário",
+      "type": "income",
+      "createdAt": "2023-06-02T13:19:05.141Z",
+      "id": 7
     }
   ]
 }
