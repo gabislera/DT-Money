@@ -63,7 +63,7 @@ export function TransactionsProvider({ children }: TransactionsProviderProps) {
 
   useEffect(() => {
     fetchTransactions()
-  }, [])
+  }, [fetchTransactions])
   // async function fetchTransactions(query?: string) {
   //   const url = new URL('/transactions')
 
